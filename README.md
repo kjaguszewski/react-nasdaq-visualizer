@@ -2,7 +2,7 @@
 
 ## Setup
 
-To build locally add `.env` file with the Nasdaq API key:
+To run the project locally add `.env` file in the root folder with the Nasdaq API key:
 ```
 REACT_APP_API_KEY={api_key}
 ```
