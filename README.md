@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Nasdaq Data Visualizer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
+## Setup
+
+To build locally add `.env` file with the Nasdaq API key:
+```
+REACT_APP_API_KEY={api_key}
+```
 
 ## Available Scripts
 
